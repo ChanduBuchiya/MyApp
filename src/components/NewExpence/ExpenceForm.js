@@ -51,7 +51,7 @@ return(
                 <input type="date" value={enteredDate} onChange={dateChangeHandler}/>
             </div>
         </div>
-        <div className="new-expence__actions">
+        <div className="new-expence-actions">
             <button type="submit">Add Expence</button>
         </div>
     </form>
